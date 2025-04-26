@@ -17,7 +17,7 @@ Sources: POS transaction data, promotions calendar, external economic indicators
 Key Features: Sales history, calendar events, economic trends.
 
 🛠️ Methods
-Models tested: Linear Regression, ARIMA, Random Forest, LSTM.
+Models tested: Linear Regression, , Random Forest,
 
 Final Model: XGBoost (best RMSE and interpretability).
 
